@@ -57,3 +57,14 @@ typings/
 # dotenv environment variables file
 .env
 
+# Build/Install artifacts
+dist/
+.cache/
+.archive/
+.yo-rc.json
+yarn.lock
+.env
+package-lock.json
+.npmrc
+.vscode
+.idea

@@ -1,0 +1,9 @@
+{
+  "name": "navigation",
+  "version": "0.0.1",
+  "description": "An example application for the 'Navigation In A Component World' article",
+  "repository": "git@github.com:zen-js-code/navigation.git",
+  "author": "dnutels <dmitry.nutels@naturalint.com>",
+  "license": "MIT",
+  "scripts": {}
+}
