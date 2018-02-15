@@ -8,7 +8,9 @@
     "scripts": {},
     "dependencies": {
         "react": "16.2.0",
-        "react-dom": "16.2.0"
+        "react-dom": "16.2.0",
+        "semantic-ui-css": "2.2.14",
+        "semantic-ui-react": "0.78.2"
     },
     "keywords": ["react", "navigation"]
 }
